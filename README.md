@@ -38,9 +38,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
 </p>
 
-<!-- 사용한 언어 순위 카드 -->
+<!-- 사용한 언어 순위 카드 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2nooh&layout=compact&theme=algolia)
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats Card 
 [![j2nooh's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2nooh&chow-icons=true&theme=tokyonight)](https://github.com/j2nooh/github-readme-stats)
-<!-- solved.ac 프로필 -->
+<!-- solved.ac 프로필 
 [![Solved.ac 프로필](http:L//mazassumnida.wtf/api/v2/generate_badge?boj=wisestorm02)](https://solved.ac/wisestorm02)
+-->
